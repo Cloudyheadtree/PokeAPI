@@ -1,0 +1,43 @@
+body {
+    background-image: url(https://c4.wallpaperflare.com/wallpaper/778/164/837/poke-balls-digital-art-balls-fantasy-art-wallpaper-preview.jpg);
+    background-size: 1300px;
+    text-align: center;
+    
+}
+h1 {
+    color: white;
+    text-align: center;
+   
+}
+h2 {
+color: white;
+text-align: center;
+}
+p {
+    color: white;
+    text-align: center;
+}
+label {
+    color: white;
+    text-align: center;
+}
+button {
+font-size: 16px;
+border-radius: 8px;
+background-color: black;
+color: white;
+border: 1px solid lightblue;
+}
+#image-one {
+    margin-right: auto;
+    margin-left: auto;
+}
+#image-two {
+    margin-right: auto;
+    margin-left: auto;
+}
+footer {
+    color: white;
+    text-align: center;
+    padding: 1.5em 2.0em;
+}    
